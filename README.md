@@ -1,4 +1,4 @@
-# Facebook Clone Using HTML and CSS
+# Facebook Cloning Using HTML and CSS
 
 This project is a simple clone of the Facebook interface, built using HTML and CSS. It aims to replicate the basic structure and styling of Facebook's login page.
 
@@ -11,7 +11,7 @@ This project is a simple clone of the Facebook interface, built using HTML and C
 
 1. Clone the repository:
 ```
-git clone https://github.com/thisarakaushan/facebook-clone.git
+git clone https://github.com/thisarakaushan/facebook-cloning.git
 ```
 
 2. Navigate to the project directory:
