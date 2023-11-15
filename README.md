@@ -11,12 +11,12 @@ This project is a simple clone of the Facebook interface, built using HTML and C
 
 1. Clone the repository:
 ```
-git clone https://github.com/thisarakaushan/facebook-cloning.git
+git clone https://github.com/thisarakaushan/Facebook-Cloning.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd facebook-clone
+cd Facebook-Cloning
 ```
 
 3. Open the `index.html` file in your preferred web browser.
